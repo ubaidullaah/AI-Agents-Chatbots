@@ -15,7 +15,6 @@ pip install -r requirements.txt
 
 
 
-Python Commands
 
-## Phase 1: Create AI Agent
+## Run Project
 streamlit run app.py
